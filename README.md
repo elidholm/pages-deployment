@@ -37,4 +37,4 @@ To test that the workflow correctly triggers on changes to `index.html`:
 This project is licensed under the Apache-2.0 license - see the [LICENSE](LICENSE) file for details.
 
 ## 🔗 Project URL
-<https://roadmap.sh/projects/log-archive-tool>
+<https://roadmap.sh/projects/github-actions-deployment-workflow>
